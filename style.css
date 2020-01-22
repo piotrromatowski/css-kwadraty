@@ -1,0 +1,36 @@
+body {
+    background-color: gray;
+}
+h1 {
+    color: ghostwhite;
+}
+
+
+.square1 { 
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin:5px;
+}
+
+.square2 { 
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin:5px;
+}
+
+.square3 { 
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin:5px;
+}
+
+.square4 { 
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin:5px;
+}
+
