@@ -6,31 +6,19 @@ h1 {
 }
 
 
-.square1 { 
+.kwadraty {
+    margin: 0 auto;
+}
+
+.square1,
+.square2,
+.square3,
+.square4
+{ 
     width: 100px;
     height: 100px;
     background-color: orange;
     margin:5px;
 }
 
-.square2 { 
-    width: 100px;
-    height: 100px;
-    background-color: orange;
-    margin:5px;
-}
-
-.square3 { 
-    width: 100px;
-    height: 100px;
-    background-color: orange;
-    margin:5px;
-}
-
-.square4 { 
-    width: 100px;
-    height: 100px;
-    background-color: orange;
-    margin:5px;
-}
 
